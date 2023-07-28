@@ -1,6 +1,7 @@
 .holder{
-	 display: grid;
-  flex-wrap: wrap-reverse;
+	 display: flex;
+  flex-wrap: wrap;
+	flex-direction: column;
   background-color: DodgerBlue;
 	row-gap:space-evenly;
 }
